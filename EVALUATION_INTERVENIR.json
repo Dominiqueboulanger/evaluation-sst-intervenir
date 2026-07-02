@@ -1,0 +1,66 @@
+{
+    "EVALUATION_INTERVENIR": {
+        "scenarios": [
+            {
+                "numero": 1,
+                "libelle_image": "Mme_CHILI_s'est_coupee.jpg",
+                "question": "La victime saigne abondamment",
+                "texte_scenario": "Mme Chili  s’est coupé profondément à l’avant bras avec un couteau électrique… il y a du sang partout."
+            },
+            {
+                "numero": 2,
+                "libelle_image": "Étouffement_du_bébé.jpg",
+                "question": "étouffement du bébé",
+                "texte_scenario": "Adèle, 10 mois, est assise dans sa chaise haute à table. Elle mange des morceaux de carotte coupés en petits dés. Soudain, son visage devient rouge, puis ses lèvres deviennent bleues. Elle n’émet aucun son, ne tousse pas, et semble en grande difficulté pour respirer. Ses mains agrippent sa gorge, et ses yeux sont écarquillés."
+            },
+            {
+                "numero": 3,
+                "libelle_image": "Etouffement_femme_enceinte.jpg",
+                "question": "La victime s’étouffe",
+                "texte_scenario": "Madame Bolivie, 7 mois de grossesse, mange un repas en famille. Soudain, elle porte ses mains à sa gorge, ne peut plus parler ni respirer, et son visage devient rouge. Elle se lève, paniquée, et ses proches ne savent pas comment réagir."
+            },
+            {
+                "numero": 4,
+                "libelle_image": "Votre_employeure_est_a_terre.jpg",
+                "question": "La victime ne répond pas, elle ne respire pas",
+                "texte_scenario": "Vous arrivez au domicile de votre employeure pour votre prestation habituelle. Vous entendez le bruit d’une chute, en entrant dans la cuisine, vous découvrez Mme Argentine qui ne répond pas et ne respire pas devant la gazinière. Le four est ouvert et dégage des odeurs de gaz."
+            },
+            {
+                "numero": 5,
+                "libelle_image": "Victime_allongée_sur_le_ventre.png",
+                "question": "La victime ne répond pas, elle respire",
+                "texte_scenario": "En pleine période de canicule, Vous arrivez au domicile de M. Uruguay, 78 ans. Les volets sont restés grands ouverts et il fait extrêmement chaud dans le logement. En entrant, vous découvrez M. Urugay allongé sur le ventre dans le couloir. Sa tête est très rouge, sa peau est brûlante et sèche. Un thermomètre posé à proximité indique 42 °C. "
+            },
+            {
+                "numero": 6,
+                "libelle_image": "A_V_C.jpg",
+                "question": "La victime se plaint de malaise",
+                "texte_scenario": "Vous travaillez dans la cuisine. Soudain, vous entendez des bruits de pas hésitants dans le couloir. En allant voir, vous découvrez Mme Brésil , 82 ans qui s'avance vers vous. Elle semble totalement confuse, ne comprend pas ce qu'on lui dit, et la partie droite de son visage est visiblement affaissée (bouche et paupière tombantes)."
+            },
+            {
+                "numero": 7,
+                "libelle_image": "Brulure_à_l'acide.png",
+                "question": "La victime se plaint de brûlures",
+                "texte_scenario": "Alors que vous êtes en train de repasser à l’étage, Ecuador 12 ans a renversé un produit chimique sur son bras dans la buanderie. Que faites-vous ?"
+            },
+            {
+                "numero": 8,
+                "libelle_image": "Fracture.jpg",
+                "question": "La victime se plaint d’une douleur empêchant d’effectuer certains mouvements",
+                "texte_scenario": "La jambe de la victime fait un angle bizarre: Monsieur Vénézuela, un employé, souhaitait ranger une valise lourde tout en haut d'une armoire de bureau. Pour y parvenir, il est monté sur un tabouret."
+            },
+            {
+                "numero": 9,
+                "libelle_image": "Mise_en_oeuvre_d'un_DAE.jpg",
+                "question": "Mettre en oeuvre d’un DAE",
+                "texte_scenario": "Montrez nous comment fonctionne un DAE"
+            },
+            {
+                "numero": 10,
+                "libelle_image": "doigt_sectionné.png",
+                "question": "La victime se plaint d’une plaie qui ne saigne pas abondamment",
+                "texte_scenario": "M. Guyane s'est sectionné l'index par accident dans son jardin en utilisant un sécateur électrique. Il saigne modérément, il a très mal et il a besoin d'une intervention de secours rapide pour soigner sa blessure.Que faites vous ?"
+            }
+        ]
+    }
+}
