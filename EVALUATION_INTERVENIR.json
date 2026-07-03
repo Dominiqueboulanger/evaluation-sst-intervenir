@@ -9,7 +9,7 @@
             },
             {
                 "numero": 2,
-                "libelle_image": "Étouffement_du_bébé.jpg",
+                "libelle_image": "Étouffement_du_bebe.jpg",
                 "question": "étouffement du bébé",
                 "texte_scenario": "Adèle, 10 mois, est assise dans sa chaise haute à table. Elle mange des morceaux de carotte coupés en petits dés. Soudain, son visage devient rouge, puis ses lèvres deviennent bleues. Elle n’émet aucun son, ne tousse pas, et semble en grande difficulté pour respirer. Ses mains agrippent sa gorge, et ses yeux sont écarquillés."
             },
@@ -27,7 +27,7 @@
             },
             {
                 "numero": 5,
-                "libelle_image": "Victime_allongée_sur_le_ventre.png",
+                "libelle_image": "Victime_allongee_sur_le_ventre.png",
                 "question": "La victime ne répond pas, elle respire",
                 "texte_scenario": "En pleine période de canicule, Vous arrivez au domicile de M. Uruguay, 78 ans. Les volets sont restés grands ouverts et il fait extrêmement chaud dans le logement. En entrant, vous découvrez M. Urugay allongé sur le ventre dans le couloir. Sa tête est très rouge, sa peau est brûlante et sèche. Un thermomètre posé à proximité indique 42 °C. "
             },
@@ -39,7 +39,7 @@
             },
             {
                 "numero": 7,
-                "libelle_image": "Brulure_à_l'acide.png",
+                "libelle_image": "Brulure_a_l'acide.png",
                 "question": "La victime se plaint de brûlures",
                 "texte_scenario": "Alors que vous êtes en train de repasser à l’étage, Ecuador 12 ans a renversé un produit chimique sur son bras dans la buanderie. Que faites-vous ?"
             },
