@@ -57,7 +57,7 @@
             },
             {
                 "numero": 10,
-                "libelle_image": "doigt_sectionné.png",
+                "libelle_image": "doigt_sectionne.png",
                 "question": "La victime se plaint d’une plaie qui ne saigne pas abondamment",
                 "texte_scenario": "M. Guyane s'est sectionné l'index par accident dans son jardin en utilisant un sécateur électrique. Il saigne modérément, il a très mal et il a besoin d'une intervention de secours rapide pour soigner sa blessure.Que faites vous ?"
             }
